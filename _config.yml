@@ -1,0 +1,14 @@
+title: Bisaya Poems
+email: angbarug@mailfence.com 
+description: >- # this means to ignore newlines until "baseurl:"
+  Simple blog for compiling Sugbuanon/Bisaya poems (balak).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: bisaya_poems 
+github_username: bisayapoems 
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
