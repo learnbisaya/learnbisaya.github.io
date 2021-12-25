@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Simple blog for compiling Sugbuanon/Bisaya poems (balak).
+Anything related to Visayan languages.
+
+For corrections and contributions
+
+- [Github](<https://github.com/bisayapoems>)
+- [angbarug@mailfence.com](<mailto:angbarug@mailfence.com>)
+

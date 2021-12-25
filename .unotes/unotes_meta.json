@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "_posts": {
+      "name": "_posts",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "_site": {
+      "name": "_site",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "index": 0,
+    "about": 1
+  }
+}
