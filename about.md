@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Anything related to Visayan languages.
+Angay ipa-sigarbo ang Binisayang pulong! Dasigon nato ang kabatan-onan sa pag kat-on sa linahum nga Binisaya.
 
 For corrections and contributions
-
-- [Github](<https://github.com/bisayapoems>)
+- [Github](<https://github.com/learnbisaya>)
 - [angbarug@mailfence.com](<mailto:angbarug@mailfence.com>)
 
