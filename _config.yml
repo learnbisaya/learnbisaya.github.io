@@ -10,6 +10,6 @@ github_username: learnbisaya
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
