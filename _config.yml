@@ -1,6 +1,7 @@
 title: Learn Bisaya
 email: angbarug@mailfence.com 
 description: >- # this means to ignore newlines until "baseurl:"
+  Simple blog about Bisaya/Cebuano language.
   Angay ipa-sigarbo ang Binisayang pulong! Dasigon nato ang kabatan-onan sa pag kat-on sa linahum nga Binisaya.
   For corrections and contributions, please consider submitting a push request or see our information on the 'About' page.
 baseurl: "" # the subpath of your site, e.g. /blog
